@@ -78,9 +78,7 @@
 background-color: rgb(98, 4, 165);
     color:white;
 }
-.i2{
-    text-align: right;
-}
+
 .nav1{
     position:sticky ;
     top: 0px;
@@ -113,7 +111,7 @@ background-color: rgb(98, 4, 165);
     display: none;
 }
 .i3,.i2{
+    width:100%;
     text-align: center;
-    padding: auto;
 }
 }
