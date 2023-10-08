@@ -111,6 +111,7 @@ background-color: rgb(98, 4, 165);
     display: none;
 }
 .i3,.i2{
+    padding: 2%;
     width:100%;
     text-align: center;
 }
